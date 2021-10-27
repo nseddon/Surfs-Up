@@ -29,5 +29,8 @@ The purpose of this analysis was to:
 The analysis has determined:
 - 
 - 
-- 
-- 
+- Additional Analysis: June Precipitation
+![Additional Analysis 1.png](https://github.com/nseddon/Surfs-Up/blob/main/Additional%20Analysis%201.PNG)
+
+- Additional Analysis: December Precipitation
+![Additional Analysis 2.png](https://github.com/nseddon/Surfs-Up/blob/main/Additional%20Analysis%202.PNG)
